@@ -1,5 +1,5 @@
 function App() {
-  return <div className="App">Hi v.1.0.3</div>;
+  return <div className="App">v.1.2.0</div>;
 }
 
 export default App;
