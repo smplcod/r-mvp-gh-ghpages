@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/r-mvp-gh-ghpages/static/css/main.e6c13ad2.css",
-    "main.js": "/r-mvp-gh-ghpages/static/js/main.49aeb1a4.js",
+    "main.js": "/r-mvp-gh-ghpages/static/js/main.dc2030be.js",
     "index.html": "/r-mvp-gh-ghpages/index.html",
     "main.e6c13ad2.css.map": "/r-mvp-gh-ghpages/static/css/main.e6c13ad2.css.map",
-    "main.49aeb1a4.js.map": "/r-mvp-gh-ghpages/static/js/main.49aeb1a4.js.map"
+    "main.dc2030be.js.map": "/r-mvp-gh-ghpages/static/js/main.dc2030be.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.49aeb1a4.js"
+    "static/js/main.dc2030be.js"
   ]
 }
